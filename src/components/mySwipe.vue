@@ -1,0 +1,1 @@
+<div><swiper height="3.2rem" :list="listLI" auto v-model="demo01_index" @on-index-change="demo01_onIndexChange" :loop='true'></swiper></div>

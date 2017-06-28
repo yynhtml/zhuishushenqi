@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "_id": "5939ff39b2405ff43a8046b5",
+            "__v": 0,
+            "order": 6,
+            "node": "5912825ba1dbf3ad33ee7ffe",
+            "page": "5910018c8094b1e228e5868f",
+            "book": {
+                "_id": "57aac8c566e47a7c243da29d",
+                "title": "重生之异能王妃",
+                "author": "十七纬",
+                "shortIntro": "一根铁索，一碗毒药，她被最亲近的人联手逼入惨烈地狱。 再次睁眼，她誓要将仇人踩在脚下！ 嫡姐恶毒，继母阴险，还有一窝牛鬼蛇神的姑妈表妹不安好心，连亲爹都是一肚子...",
+                "cover": "http://statics.zhuishushenqi.com/agent/http://pic.motieimg.com/book/75413l4.jpg",
+                "majorCate": "古代言情",
+                "minorCate": "宫闱宅斗",
+                "latelyFollower": 1142,
+                "retentionRatio": 51.1,
+                "isSerial": true
+            },
+            "show": true
+        },
+        {
+            "_id": "5939ff39b2405ff43a8046b0",
+            "__v": 0,
+            "order": 10,
+            "node": "5912825ba1dbf3ad33ee7ffe",
+            "page": "5910018c8094b1e228e5868f",
+            "book": {
+                "_id": "538062ad286d56db4f026866",
+                "title": "闪婚惊爱",
+                "author": "洛心辰",
+                "shortIntro": "一场意外，他被跟自己相亲的女人强行破了童子身！他是谁？权倾京城的太子爷！传闻，他冷艳高贵倾国倾城，引无数名媛淑女竟折腰，却洁身自好、不近女色。她是谁？不受宠爱的...",
+                "cover": "http://statics.zhuishushenqi.com/agent/http://wfqqreader.3g.qq.com/cover/646/419646/t7_419646.jpg",
+                "majorCate": "现代言情",
+                "minorCate": "豪门总裁",
+                "latelyFollower": 4461,
+                "retentionRatio": 49.83,
+                "isSerial": false
+            },
+            "show": true
+        },
+        {
+            "_id": "5939ff39b2405ff43a8046b8",
+            "__v": 0,
+            "order": 14,
+            "node": "5912825ba1dbf3ad33ee7ffe",
+            "page": "5910018c8094b1e228e5868f",
+            "book": {
+                "_id": "58256dc40683ce8b0aa1d6b5",
+                "title": "冷王盛宠，一品驭兽妃",
+                "author": "元熙",
+                "shortIntro": "简介： 21世纪反恐特工，穿越千年之前，变为沐相府三小姐，从此，纤弱小姐一夜变高手。一朝圣旨下，要嫁给冰山王爷？幸好听闻冰山王爷有眼疾，铁定打不过她。谁料红帐内...",
+                "cover": "http://statics.zhuishushenqi.com/agent/http://wap.cmread.com/r/cover_file/4019/448444019/20161015180313/cover180240.jpg",
+                "majorCate": "玄幻奇幻",
+                "minorCate": "玄幻异世",
+                "latelyFollower": 2819,
+                "retentionRatio": 52.16,
+                "isSerial": false
+            },
+            "show": true
+        },
+        {
+            "_id": "5939ff39b2405ff43a8046b3",
+            "__v": 0,
+            "order": 11,
+            "node": "5912825ba1dbf3ad33ee7ffe",
+            "page": "5910018c8094b1e228e5868f",
+            "book": {
+                "_id": "571b6c7acf254f5e2c63fc18",
+                "title": "神医废柴妃：鬼王，别缠我",
+                "author": "公子夜",
+                "shortIntro": "南宫浅，华夏医药世家的传人，一朝穿越，她成了南宫家又丑又傻的废物小姐。清冷的眼眸再次睁开，她再也不是昔日懦弱被人殴打的她。当废物变成天才，她光芒万丈，谁与争锋！...",
+                "cover": "http://statics.zhuishushenqi.com/agent/http://wap.cmread.com/r/cover_file/2318/440052318/20160415152657/cover180240.jpg",
+                "majorCate": "玄幻奇幻",
+                "minorCate": "玄幻异世",
+                "latelyFollower": 997,
+                "retentionRatio": 53.92,
+                "isSerial": true
+            },
+            "show": true
+        }
+    ],
+    "ok": true
+}
